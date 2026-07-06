@@ -2,7 +2,7 @@
 
 An interactive Python Jupyter Notebook dedicated to exploring, visualizing, and preparing the classic Iris dataset (`Iris.csv`) for machine learning and deep learning classification models. 
 
-This project establishes a clean workflow—from initial data ingestion and exploratory data analysis (EDA) using **Seaborn** to setting up classification pipelines with **Scikit-Learn** and **TensorFlow/Keras**.
+This project establishes a clean workflow-from initial data ingestion and exploratory data analysis (EDA) using **Seaborn** to setting up classification pipelines with **Scikit-Learn** and **TensorFlow/Keras**.
 
 ---
 
